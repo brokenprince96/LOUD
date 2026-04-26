@@ -1,7 +1,7 @@
 # Coded by Casse Amir
 in_thread do
   
-  sample "C:/Users/casse/source/projectRuby/Loud/ProjectMusicOST/samp2.wav", amp: 6
+  sample "C:/PATH", amp: 6
   
 end
 
@@ -10,7 +10,7 @@ in_thread do
   sync :coo
   live_loop :ost1 do
     use_bpm 100
-    sample "C:/Users/casse/source/projectRuby/Loud/ProjectMusicOST/samp1.wav", beat_stretch: 9, amp: 4
+    sample "C:/PATH", beat_stretch: 9, amp: 4
     sleep 6.2
   end
   sample :sn_generic, beat_stretch: 1, amp: 3
