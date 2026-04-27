@@ -409,7 +409,7 @@ class Game2
     ]
     @beat_index = 0
 
-    @music = Music.new('shot_my_soul.wav')
+    @music = Music.new('soul_rush.wav')
     @music.play
   end
  
