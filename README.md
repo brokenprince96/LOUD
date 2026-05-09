@@ -20,5 +20,5 @@ Description: It is based on my hand made song of Ruby code and converted to .wav
 As you follow through the beat. Plus getting the most scores. 
 Try to keep up on how to follow through the tempo.
 
-Personal Social: @casseamir --ig, threads--
+Personal Social: @casseamir --ig, threads--;
 Official Game Social: @loud_live_code --ig, youtube, twitch--
